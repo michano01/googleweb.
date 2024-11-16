@@ -1,0 +1,103 @@
+
+body{
+    font-family: m;
+    padding: 15px;
+    margin: 0;
+}
+h1{
+    font-size: 5rem;
+    text-align: center;
+    font-family: ;
+}
+.big-G{
+    color: rgb(111,111,245);
+}
+.big-O{
+    color: red;
+}
+.big-O2{
+    color: rgb(226,205,11);
+}
+.big-G2{
+    color: rgb(111,111,245);
+}
+.big-L{
+    color: green;
+}
+.big-E{
+    color: red;
+}
+.search-bar{
+    display:;
+    justify-content: space-between;
+    padding: 0 10px;
+    display: flex;
+    height: 2.6em;
+    cursor: zoom-out;
+    align-items: center;
+    border: 2px solid;
+    box-shadow: 0 0 10px;
+    border-radius: 20px;
+}
+.search-input{
+    height: 30px;
+    outline: none;
+    border: none;
+    width: auto;
+    cursor: pointer;
+    
+}
+.btn-primary{
+    height: 33px;
+    border: none;
+    outline: none;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0;
+}
+.btn{
+    margin: 10px;
+    padding: 5px;
+    background: rgb(248, 243, 243);
+    border: none;
+}
+.btns-hover{
+    box-shadow: 0 1px 6px blue;
+}
+p{
+    text-align: center;
+    margin-bottom: 5px;
+}
+nav{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.btnss{
+    display: flex;
+    justify-content: right;
+}
+
+.Business{
+    margin: 10px;
+    padding: 5px;
+    background: rgb(248, 243, 243);
+    border: none;
+}
+.Advertising{
+    margin: 10px;
+    padding: 5px;
+    background: rgb(248, 243, 243);
+    border: none;
+}
+.About{
+    margin: 10px;
+    padding: 5px;
+    background: rgb(248, 243, 243);
+    border: none;
+}
+.gee{
+    text-align: center;
+}
+
